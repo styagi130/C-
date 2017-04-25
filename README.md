@@ -1,2 +1,3 @@
-# linked_list
-linked_list using c++
+# C++ codes
+
+implemenattion of different coding techniques in c++
