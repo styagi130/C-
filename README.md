@@ -1,3 +1,2 @@
-# C++ codes
-
-implemenattion of different coding techniques in c++
+#Algorithms
+Implementation of algorithms used in programming.
